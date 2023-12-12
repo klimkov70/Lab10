@@ -23,7 +23,7 @@
 3. Результаты действий будут выведены на экран.
 
 ## Скриншоты тестов
-![alt text](https://github.com/klimkov70/Lab10/blob/main/Результат%20(N%3D10%2C%20k%3D5).png)
-![alt text](https://github.com/klimkov70/Lab10/blob/main/Результат%20(N%3D7%2C%20k%3D3).png)
+![alt text](https://github.com/klimkov70/Lab10/blob/main/(7%3B3).png)
+![alt text](https://github.com/klimkov70/Lab10/blob/main/(10%3B5).png)
 
 
